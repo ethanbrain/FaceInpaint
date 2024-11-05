@@ -5,7 +5,7 @@ This project leverages machine learning techniques to enhance facial image retri
 ## Features
 - **GAN-based Image Completion**: Utilizes a Generative Adversarial Network to reconstruct occluded facial images.
 - **Image Retrieval**: Efficiently retrieves images similar to the target, assisting in facial recognition tasks.
-- **Custom Model Training**: Trains a model from scratch for specific retrieval tasks with tailored metrics.
+- **Custom Model Training**: Trains a model from scratch for specific retrieval tasks with tailored metrics.(Be Soon)
 - **Inpainting**: Fills missing or occluded parts of images for improved analysis.
 
 ## Installation
