@@ -1,6 +1,7 @@
 # Occluded Facial Image Retrieval and Reconstruction
 
 This project leverages machine learning techniques to enhance facial image retrieval and reconstruction, even when input images are partially occluded. Using a combination of GANs, image retrieval models, and metric evaluation, this system can retrieve and restore facial features from obscured images effectively.
+![Alt Text](https://github.com/ethanbrain/FaceInpaint/blob/main/Demo.png)
 
 ## Features
 - **GAN-based Image Completion**: Utilizes a Generative Adversarial Network to reconstruct occluded facial images.
